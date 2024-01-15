@@ -1,7 +1,7 @@
-import 'package:boilerplate_flutter/config/theme.dart';
-import 'package:boilerplate_flutter/constants/colors.dart';
-import 'package:boilerplate_flutter/routes/app_pages.dart';
-import 'package:boilerplate_flutter/routes/route_names.dart';
+import 'package:flutter_getx/config/theme.dart';
+import 'package:flutter_getx/constants/colors.dart';
+import 'package:flutter_getx/routes/app_pages.dart';
+import 'package:flutter_getx/routes/route_names.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';

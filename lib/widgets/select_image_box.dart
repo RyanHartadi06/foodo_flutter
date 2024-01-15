@@ -3,8 +3,8 @@ import 'dart:io';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:dotted_border/dotted_border.dart';
 import 'package:flutter/material.dart';
-import 'package:boilerplate_flutter/constants/colors.dart';
-import 'package:boilerplate_flutter/utilities/image_selector.dart';
+import 'package:flutter_getx/constants/colors.dart';
+import 'package:flutter_getx/utilities/image_selector.dart';
 
 class SelectImageBox extends StatelessWidget {
   const SelectImageBox({

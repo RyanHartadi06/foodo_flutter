@@ -4,9 +4,9 @@ import 'dart:io';
 
 import 'package:http/http.dart' as http;
 import 'package:http_parser/http_parser.dart';
-import 'package:boilerplate_flutter/data/local/session.dart';
+import 'package:flutter_getx/data/local/session.dart';
 import 'package:get/get.dart';
-import 'package:boilerplate_flutter/routes/route_names.dart';
+import 'package:flutter_getx/routes/route_names.dart';
 
 import 'custom_exception.dart';
 

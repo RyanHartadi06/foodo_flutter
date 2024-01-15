@@ -2,7 +2,7 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:photo_view/photo_view.dart';
-import 'package:boilerplate_flutter/constants/colors.dart';
+import 'package:flutter_getx/constants/colors.dart';
 
 class PhotoViewDialog extends StatelessWidget {
   const PhotoViewDialog({

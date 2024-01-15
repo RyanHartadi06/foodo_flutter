@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:boilerplate_flutter/constants/colors.dart';
+import 'package:flutter_getx/constants/colors.dart';
 
 import '../../../../widgets/primary_button.dart';
 import '../../../../widgets/custom_outlined_button.dart';

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:boilerplate_flutter/widgets/no_data.dart';
-import 'package:boilerplate_flutter/widgets/under_development.dart';
+import 'package:flutter_getx/widgets/no_data.dart';
+import 'package:flutter_getx/widgets/under_development.dart';
 
 import '../../../widgets/no_connection.dart';
 import '../../../widgets/server_error.dart';

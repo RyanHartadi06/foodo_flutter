@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:boilerplate_flutter/constants/colors.dart';
+import 'package:flutter_getx/constants/colors.dart';
 
 import 'small_button.dart';
 

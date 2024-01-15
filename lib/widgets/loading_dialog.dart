@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
-import 'package:boilerplate_flutter/constants/colors.dart';
+import 'package:flutter_getx/constants/colors.dart';
 
 class LoadingDialog extends StatelessWidget {
   const LoadingDialog({Key? key}) : super(key: key);

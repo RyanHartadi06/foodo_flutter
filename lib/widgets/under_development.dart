@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:boilerplate_flutter/constants/colors.dart';
+import 'package:flutter_getx/constants/colors.dart';
 
 class UnderDevelopment extends StatelessWidget {
   const UnderDevelopment({Key? key}) : super(key: key);
